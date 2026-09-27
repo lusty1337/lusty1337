@@ -17,13 +17,17 @@ Full-stack developer. I build websites with 3D and motion, Telegram bots and Min
 ### Stack
 
 <p>
-  <picture>
+  <a href="#stack"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Cjs%2Cts%2Creact%2Cthreejs%2Cvite&theme=light">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,threejs,vite&theme=dark" alt="HTML, CSS, Tailwind, JavaScript, TypeScript, React, Three.js, Vite">
-  </picture>
+  </picture></a>
   <br>
-  <picture>
+  <a href="#stack"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs%2Cpostgres%2Csqlite%2Cdocker%2Cnginx%2Clinux%2Cgit%2Ccloudflare&theme=light">
     <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,sqlite,docker,nginx,linux,git,cloudflare&theme=dark" alt="Python, FastAPI, Node.js, PostgreSQL, SQLite, Docker, Nginx, Linux, Git, Cloudflare">
-  </picture>
+  </picture></a>
 </p>
+
+### Activity
+
+<a href="#activity"><img src="https://lusty-header.lusty1337.workers.dev/activity.svg" width="100%" alt="My last ten weeks of commits, drawn like a weather forecast"></a>
