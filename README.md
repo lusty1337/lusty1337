@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://egordev.com"><img src="https://lusty-header.lusty1337.workers.dev/window.webp" width="43%" alt="A box-headed guy in a suit under today's sky over Belgorod"></a>
+  <a href="https://egordev.com"><img src="https://lusty-header.lusty1337.workers.dev/window.svg" width="43%" alt="A box-headed guy in a suit under today's sky over Belgorod"></a>
   <a href="https://egordev.com"><img src="https://lusty-header.lusty1337.workers.dev/panel.svg" width="54%" alt="Local time, weather in Belgorod and what I'm up to right now"></a>
 </p>
 
